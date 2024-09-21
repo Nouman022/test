@@ -2,7 +2,7 @@ hungry = input("Are you hungry? : ")
 if hungry == "yes":
     print("Eat Samosa")
     print("Eat Pizza")
-    print("Eat_Burger")
+    print("Why removing?")
 else:
     thirsty = input("Are you thirsty? : ")
     if thirsty == "yes":
